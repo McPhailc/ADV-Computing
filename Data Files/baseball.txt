@@ -1,0 +1,30 @@
+Arizona Diamondbacks,1,Chase Field,48405
+Atlanta Braves,4,Truist Park,41084
+Baltimore Orioles,3,Oriole Park at Camden Yards,44970
+Boston Red Sox,9,Fenway Park,37755
+Chicago Cubs,3,Wrigley Field,41649
+Chicago White Sox,3,Guaranteed Rate Field,40615
+Cincinnati Reds,5,Great American Ball Park,43500
+Cleveland Guardians,2,Progressive Field,34830
+Colorado Rockies,0,Coors Field,50144
+Detroit Tigers,4,Comerica Park,41083
+Houston Astros,2,Minute Maid Park,41168
+Kansas City Royals,2,Kauffman Stadium,37903
+Los Angeles Angels,1,Angel Stadium,45517
+Los Angeles Dodgers,7,Dodger Stadium,56000
+Miami Marlins,2,LoanDepot Park,36742
+Milwaukee Brewers,0,American Family Field,41900
+Minnesota Twins,3,Target Field,38544
+New York Mets,2,Citi Field,41922
+New York Yankees,27,Yankee Stadium,46537
+Oakland Athletics,9,Oakland-Alameda County Coliseum,46847
+Philadelphia Phillies,2,Citizens Bank Park,42792
+Pittsburgh Pirates,5,PNC Park,38747
+San Diego Padres,0,Petco Park,40209
+San Francisco Giants,8,Oracle Park,41265
+Seattle Mariners,0,T-Mobile Park,47929
+St. Louis Cardinals,11,Busch Stadium,45494
+Tampa Bay Rays,0,Tropicana Field,25000
+Texas Rangers,0,Globe Life Field,40300
+Toronto Blue Jays,2,Rogers Centre,41500
+Washington Nationals,1,Nationals Park,41339

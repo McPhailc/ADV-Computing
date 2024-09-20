@@ -1,0 +1,50 @@
+Albany,New York,NY
+Annapolis,Maryland,MD
+Atlanta,Georgia,GA
+Augusta,Maine,ME
+Austin,Texas,TX
+Baton Rouge,Louisiana,LA
+Bismarck,North Dakota,ND
+Boise,Idaho,ID
+Boston,Massachusetts,MA
+Carson City,Nevada,NV
+Charleston,West Virginia,WV
+Cheyenne,Wyoming,WY
+Columbia,South Carolina,SC
+Columbus,Ohio,OH
+Concord,New Hampshire,NH
+Denver,Colorado,CO
+Des Moines,Iowa,IA
+Dover,Delaware,DE
+Frankfort,Kentucky,KY
+Harrisburg,Pennsylvania,PA
+Hartford,Connecticut,CT
+Helena,Montana,MT
+Honolulu,Hawaii,HI
+Indianapolis,Indiana,IN
+Jackson,Mississippi,MS
+Jefferson City,Missouri,MO
+Juneau,Alaska,AK
+Lansing,Michigan,MI
+Lincoln,Nebraska,NE
+Little Rock,Arkansas,AR
+Madison,Wisconsin,WI
+Montgomery,Alabama,AL
+Montpelier,Vermont,VT
+Nashville,Tennessee,TN
+Oklahoma City,Oklahoma,OK
+Olympia,Washington,WA
+Phoenix,Arizona,AZ
+Pierre,South Dakota,SD
+Providence,Rhode Island,RI
+Raleigh,North Carolina,NC
+Richmond,Virginia,VA
+Sacramento,California,CA
+Saint Paul,Minnesota,MN
+Salem,Oregon,OR
+Salt Lake City,Utah,UT
+Santa Fe,New Mexico,NM
+Springfield,Illinois,IL
+Tallahassee,Florida,FL
+Topeka,Kansas,KS
+Trenton,New Jersey,NJ

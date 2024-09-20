@@ -1,0 +1,58 @@
+2011,XLV,Green Bay Packers,Arlington
+1994,XXVIII,Dallas Cowboys,Atlanta
+2000,XXXIV,St. Louis Rams,Atlanta
+2019,LIII,New England Patriots,Atlanta
+2006,XL,Pittsburgh Steelers,Detroit
+2023,LVII,Kansas City Chiefs,Glendale
+1974,VIII,Miami Dolphins,Houston
+2004,XXXVIII,New England Patriots,Houston
+2017,LI,New England Patriots,Houston
+2012,XLVI,New York Giants,Indianapolis
+2022,LVI,Los Angeles Rams,Inglewood
+2005,XXXIX,New England Patriots,Jacksonville
+1967,I,Green Bay Packers,Los Angeles
+1973,VII,Miami Dolphins,Los Angeles
+1968,II,Green Bay Packers,Miami
+1969,III,New York Jets,Miami
+1971,V,Baltimore Colts,Miami
+1976,X,Pittsburgh Steelers,Miami
+1979,XIII,Pittsburgh Steelers,Miami
+1989,XXIII,San Francisco 49ers,Miami
+1995,XXIX,San Francisco 49ers,Miami
+1999,XXXIII,Denver Broncos,Miami
+2007,XLI,Indianapolis Colts,Miami
+2010,XLIV,New Orleans Saints,Miami
+2020,LIV,Kansas City Chiefs,Miami
+1992,XXVI,Washington Redskins,Minneapolis
+2018,LIII,Philadelphia Eagles,Minneapolis
+2014,XLVIII,Seattle Seahawks,New Jersey
+1970,IV,Kansas City Chiefs,New Orleans
+1972,VI,Dallas Cowboys,New Orleans
+1975,IX,Pittsburgh Steelers,New Orleans
+1978,XII,Dallas Cowboys,New Orleans
+1981,XV,Oakland Raiders,New Orleans
+1986,XX,Chicago Bears,New Orleans
+1990,XXIV,San Francisco 49ers,New Orleans
+1997,XXXI,Green Bay Packers,New Orleans
+2002,XXXVI,New England Patriots,New Orleans
+2013,XLVII,Baltimore Ravens,New Orleans
+2024,LVIII,Kansas City Chiefs,Paradise
+1977,XI,Oakland Raiders,Pasadena
+1980,XIV,Pittsburgh Steelers,Pasadena
+1983,XVII,Washington Redskins,Pasadena
+1987,XXI,New York Giants,Pasadena
+1993,XXVII,Dallas Cowboys,Pasadena
+2008,XLII,New York Giants,Phoenix
+2015,XLIX,New England Patriots,Phoenix
+1982,XVI,San Francisco 49ers,Pontiac
+1988,XXII,Washington Redskins,San Diego
+1998,XXXII,Denver Broncos,San Diego
+2003,XXXVII,Tampa Bay Buccaneers,San Diego
+2016,L,Denver Broncos,Santa Clara
+1985,XIX,San Francisco 49ers,Stanford
+1984,XVIII,Los Angeles Raiders,Tampa
+1991,XXV,New York Giants,Tampa
+2001,XXXV,Baltimore Ravens,Tampa
+2009,XLIII,Pittsburgh Steelers,Tampa
+2021,LV,Tampa Bay Buccaneers,Tampa
+1996,XXX,Dallas Cowboys,Tempe

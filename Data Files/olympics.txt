@@ -1,0 +1,29 @@
+Athens,Greece,1896
+Paris,France,1900
+St. Louis,United States of America,1904
+London,United Kingdom,1908
+Stockholm,Sweden,1912
+Antwerp,Belgium,1920
+Paris,France,1924
+Amsterdam,Netherlands,1928
+Los Angeles,United States of America,1932
+Berlin,Germany,1936
+London,United Kingdom,1948
+Helsinki,Finland,1952
+Melbourne,Australia,1956
+Rome,Italy,1960
+Tokyo,Japan,1964
+Mexico City,Mexico,1968
+Munich,West Germany,1972
+Montreal,Canada,1976
+Moscow,Soviet Union,1980
+Los Angeles,United States of America,1984
+Seoul,South Korea,1988
+Barcelona,Spain,1992
+Atlanta,United States of America,1996
+Sydney,Australia,2000
+Athens,Greece,2004
+Beijing,China,2008
+London,United Kingdom,2012
+Rio de Janeiro,Brazil,2016
+Tokyo,Japan,2020
